@@ -1,7 +1,7 @@
 import requests
 import argparse
 
-API_KEY = 'ef394a9b79524ad98733f3f5662a6df5'
+API_KEY = 'YOUR API KEY'
 BASE_URL = 'https://newsapi.org/v2/top-headlines'
 
 def get_news(category=None, country='us'):
